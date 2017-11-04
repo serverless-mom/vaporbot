@@ -1,0 +1,16 @@
+{
+  "name": "vapor-bot",
+  "version": "1.0.0",
+  "description": "a bot that tweets vaporwave images from Tumblr, hopefully",
+  "main": "index.js",
+  "dependencies": {
+    "jimp": "^0.2.28",
+    "tumblr.js": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
